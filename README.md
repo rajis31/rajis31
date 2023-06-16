@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Vue, Laravel, PHP, MySQL**
 
-- 📫 How to reach me **raj350@mail.fresnostate.edu**
+- 📫 How to reach me **rajsolan91@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1XTDr-W9s3W4V3mcZejMrzM25CM71iO2KaT8UCXi4iyQ/edit?usp=sharing](https://docs.google.com/document/d/1XTDr-W9s3W4V3mcZejMrzM25CM71iO2KaT8UCXi4iyQ/edit?usp=sharing)
 
